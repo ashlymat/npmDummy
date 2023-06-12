@@ -18,8 +18,8 @@
   "homepage": "https://github.com/ashlymat/npmDummy#readme",
   "bundledDependencies": true,
   "dependencies": {
-    "@unleash/proxy": "^0.16.3",
-    "babel-cli": "^6.26.0",
+    "@unleash/proxy": "0.16.3",
+    "babel-cli": "6.26.0",
     "echo": "^0.1.9"
   }
 }
